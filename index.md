@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-You can use the [editor on GitHub](https://github.com/aniruddhxd/aniruddhxd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<link rel="icon" href="https://aniruddhxd.w3spaces.com/okwtf.png" />
+<title>ani Study</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    body,
+    h1 {
+        font-family: "Raleway", Arial, sans-serif
+    }
+    h1 {
+        letter-spacing: 6px
+    }
+    .w3-row-padding img {
+        margin-bottom: 12px
+}
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+    <div class="w3-content" style="max-width:1500px">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <header class="w3-panel w3-center w3-opacity" style="padding:128px 16px">
 
-```markdown
-Syntax highlighted code block
+            <h1 class="w3-xlarge">No!</h1>
+			<br>
+			<h2 class="w3-xlarge">No.</h2>
+            <h1>Go Back to studying lol.</h1>
 
-# Header 1
-## Header 2
-### Header 3
+           
 
-- Bulleted
-- List
+                <img src="Dev.gif" style="width:60%">
+</div>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aniruddhxd/aniruddhxd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
